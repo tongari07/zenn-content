@@ -1,3 +1,8 @@
 {
-  "recommendations": ["zenn.zenn-preview", "mushan.vscode-paste-image"]
+  "recommendations": [
+    "zenn.zenn-preview",
+    "mushan.vscode-paste-image",
+    "esbenp.prettier-vscode",
+    "davidanson.vscode-markdownlint"
+  ]
 }
