@@ -5,8 +5,11 @@ rules:
     no-exclamation-question-mark: false
     max-kanji-continuous-len: false
     sentence-length:
-      max: 120
+      max: 3000
+    no-doubled-joshi: false
   preset-ja-spacing:
+    ja-space-between-half-and-full-width:
+      space: always
     ja-space-around-code:
       before: true
       after: true
