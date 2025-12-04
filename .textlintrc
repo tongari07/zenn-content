@@ -7,6 +7,8 @@ rules:
     sentence-length:
       max: 3000
     no-doubled-joshi: false
+    max-ten: 
+      max: 4
   preset-ja-spacing:
     ja-space-between-half-and-full-width:
       space: always
